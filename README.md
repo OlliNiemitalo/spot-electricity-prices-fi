@@ -9,3 +9,7 @@ See [requirements.txt](requirements.txt), or just install Jupyter Notebook and t
 # How to run
 
 See instructions in Finnish in [the notebook](Pörssisähkön_hinta_ja_kulutus.ipynb). Print statements and code comments are in English.
+
+# License
+
+Triple-licensed under CC0, MIT, and Apache 2.0.
