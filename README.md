@@ -4,7 +4,7 @@ A Jupyter Notebook to automatically obtain Finnish spot electricity prices from 
 
 # Requirements
 
-See [requirements.txt](requirements.txt), or just install the required Python modules as needed using pip.
+See [requirements.txt](requirements.txt), or just install Jupyter Notebook and then install the required Python modules as needed using pip.
 
 # How to run
 
