@@ -1,6 +1,6 @@
 # spot-electricity-prices-fi
 
-A Jupyter Notebook to automatically obtain Finnish spot electricity prices from Entso-e Transparency Platform and to combine the prices with household consumption data obtained manually from Fingrid Datahub.
+A Jupyter Notebook to automatically obtain Finnish Nord Pool spot electricity prices from Entso-e Transparency Platform and to combine the prices with household consumption data obtained manually from Fingrid Datahub.
 
 # Requirements
 
