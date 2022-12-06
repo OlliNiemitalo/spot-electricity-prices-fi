@@ -8,4 +8,4 @@ See [requirements.txt](requirements.txt), or just install the required Python mo
 
 # How to run
 
-See instructions in [the notebook](Pörssisähkön_hinta_ja_kulutus.ipynb).
+See instructions in Finnish in [the notebook](Pörssisähkön_hinta_ja_kulutus.ipynb). Print statements and code comments are in English.
