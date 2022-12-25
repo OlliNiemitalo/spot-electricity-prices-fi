@@ -146,3 +146,8 @@ cython_debug/
 
 # VSCode
 .vscode
+
+# ipython notebook checkpoints anywhere in repository
+.ipynb_checkpoints
+**/*.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
