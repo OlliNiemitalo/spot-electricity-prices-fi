@@ -8,12 +8,13 @@ See [requirements.txt](requirements.txt), or just install Jupyter Notebook and t
 
 # How to run
 
-See instructions in Finnish in [the notebook](Pörssisähkön_hinta_ja_kulutus.ipynb). Print statements and code comments are in English.
+See instructions in English in [the notebook](Market_electricity_price_and_consumption.ipynb). Print statements and code comments are in English too.
 
-# Author
+# Authors
 
 Olli Niemitalo (o@iki.fi)
+Andriy Tymchenko (silpol@gmail.com)
 
 # License
 
-Triple-licensed under CC0, MIT, and Apache 2.0.
+MIT (previous Apache and CC0 stripped as excessive against MIT)
